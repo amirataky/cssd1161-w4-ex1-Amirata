@@ -1,2 +1,4 @@
-# cssd1161-w4-ex1-Amirata
-part1
+# About me
+my name is amirata
+## gaols
+learning github
